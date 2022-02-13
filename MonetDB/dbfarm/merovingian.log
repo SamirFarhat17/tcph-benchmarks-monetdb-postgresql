@@ -1,0 +1,8 @@
+2022-02-13 13:01:19 MSG merovingian[100369]: Merovingian 11.43.5 (Jan2022) starting
+2022-02-13 13:01:19 MSG merovingian[100369]: monitoring dbfarm /home/samir/Documents/Boston_University/Spring_2022/CS561/Projects/tcpH-benchmarks-monetDB-postreqSQL/MonetDB/dbfarm
+2022-02-13 13:01:19 MSG merovingian[100369]: accepting connections on TCP socket ip6-localhost:50000
+2022-02-13 13:01:19 MSG merovingian[100369]: accepting connections on TCP socket localhost:50000
+2022-02-13 13:01:19 MSG merovingian[100369]: accepting connections on UNIX domain socket /tmp/.s.monetdb.50000
+2022-02-13 13:01:19 MSG discovery[100369]: listening for UDP messages on ip6-localhost:50000
+2022-02-13 13:01:19 MSG discovery[100369]: listening for UDP messages on localhost:50000
+2022-02-13 13:01:19 MSG control[100369]: accepting connections on UNIX domain socket /tmp/.s.merovingian.50000
