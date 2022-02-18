@@ -1,0 +1,70 @@
+sql:0.196 opt:0.711 run:33.986 ms
+clk:35.685 ms
+sql:0.257 opt:0.775 run:35.458 ms
+clk:37.350 ms
+sql:0.207 opt:0.617 run:24.562 ms
+clk:26.172 ms
+Loop Iteration\n
+sql:0.176 opt:0.622 run:30.861 ms
+clk:32.409 ms
+sql:0.253 opt:0.758 run:33.095 ms
+clk:34.953 ms
+sql:0.207 opt:0.618 run:22.613 ms
+clk:24.277 ms
+Loop Iteration\n
+sql:0.180 opt:0.636 run:35.046 ms
+clk:36.614 ms
+sql:0.253 opt:0.766 run:33.348 ms
+clk:35.227 ms
+sql:0.208 opt:0.620 run:26.272 ms
+clk:27.930 ms
+Loop Iteration\n
+sql:0.178 opt:0.635 run:35.163 ms
+clk:36.750 ms
+sql:0.254 opt:0.777 run:33.535 ms
+clk:35.445 ms
+sql:0.208 opt:0.614 run:26.069 ms
+clk:27.693 ms
+Loop Iteration\n
+sql:0.176 opt:0.656 run:30.867 ms
+clk:32.459 ms
+sql:0.258 opt:0.778 run:35.834 ms
+clk:37.717 ms
+sql:0.206 opt:0.617 run:25.800 ms
+clk:27.442 ms
+Loop Iteration\n
+sql:0.176 opt:0.638 run:37.004 ms
+clk:38.576 ms
+sql:0.257 opt:0.792 run:38.265 ms
+clk:40.184 ms
+sql:0.205 opt:0.617 run:26.535 ms
+clk:28.136 ms
+Loop Iteration\n
+sql:0.175 opt:0.631 run:30.600 ms
+clk:32.162 ms
+sql:0.254 opt:0.784 run:38.280 ms
+clk:40.175 ms
+sql:0.208 opt:0.622 run:26.011 ms
+clk:27.653 ms
+Loop Iteration\n
+sql:0.176 opt:0.631 run:34.954 ms
+clk:36.517 ms
+sql:0.255 opt:0.773 run:33.523 ms
+clk:35.420 ms
+sql:0.207 opt:0.624 run:24.335 ms
+clk:25.981 ms
+Loop Iteration\n
+sql:0.176 opt:0.657 run:31.459 ms
+clk:33.058 ms
+sql:0.256 opt:0.773 run:36.202 ms
+clk:38.105 ms
+sql:0.208 opt:0.630 run:24.142 ms
+clk:25.814 ms
+Loop Iteration\n
+sql:0.176 opt:0.637 run:32.718 ms
+clk:34.276 ms
+sql:0.255 opt:0.826 run:35.566 ms
+clk:37.505 ms
+sql:0.205 opt:0.632 run:31.673 ms
+clk:33.327 ms
+
