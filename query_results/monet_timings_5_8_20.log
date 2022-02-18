@@ -1,9 +1,9 @@
-sql:0.196 opt:0.711 run:33.986 ms
-clk:35.685 ms
-sql:0.257 opt:0.775 run:35.458 ms
-clk:37.350 ms
-sql:0.207 opt:0.617 run:24.562 ms
-clk:26.172 ms
+sql:0.193 opt:11.019 run:1237.759 ms
+clk:1250.063 ms
+sql:0.265 opt:0.983 run:710.109 ms
+clk:712.367 ms
+sql:0.213 opt:0.796 run:603.747 ms
+clk:609.071 ms
 Loop Iteration\n
 sql:0.176 opt:0.622 run:30.861 ms
 clk:32.409 ms
